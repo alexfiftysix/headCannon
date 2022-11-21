@@ -1,11 +1,7 @@
 To do:
-- Automated build/deploy pipeline (GitHub to Azure static web app?)
-  - https://github.com/marketplace/actions/unity-builder
 - Sounds
-  - Cannon fired
   - Enemy died
 - Particles
-  - Cannonball trail
   - Enemy dies explosion
 - Enemy bullets (red)
 - Health/multiple hits?
@@ -15,4 +11,10 @@ To do:
 
 Done:
 - Blue for my bullets
-- - Can't spawn enemies right next to you
+- Can't spawn enemies right next to you
+- Sounds
+  - Cannon fired
+- Particles
+  - Cannonball trail
+- Automated build/deploy pipeline (GitHub to Azure static web app?)
+  - https://github.com/marketplace/actions/unity-builder
