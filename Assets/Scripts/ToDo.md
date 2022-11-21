@@ -1,4 +1,5 @@
 To do:
+- Cannon dies on hit enemy
 - Sounds
   - Enemy died
 - Particles
