@@ -1,5 +1,4 @@
 To do:
-
 - Sounds
   - Enemy died
 - Particles
@@ -18,5 +17,5 @@ Done:
 - Particles
   - Cannonball trail
 - Automated build/deploy pipeline (GitHub to Azure static web app?)
-  - https://github.com/marketplace/actions/unity-builder
+  - https://www.youtube.com/watch?v=M2BZr02uai0
 - Cannon dies on hit enemy
